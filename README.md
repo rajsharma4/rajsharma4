@@ -13,5 +13,5 @@ I'm continuously enhancing my skills and knowledge in various programming langua
 Programming Languages: JavaScript, Basic Python
 Web Development: HTML, CSS, JavaScript
 Database: SQL, MongoDB
-Version Control: Git
+Version Control: Git,
 Problem Solving: Data Structures Algorithms.
