@@ -14,6 +14,5 @@ Programming Languages: JavaScript, Basic Python
 Web Development: HTML, CSS, JavaScript
 Database: SQL, MongoDB
 Version Control: Git
-Problem Solving: Data Structures Algorithms. 
-
+Problem Solving: Data Structures Algorithms
 
